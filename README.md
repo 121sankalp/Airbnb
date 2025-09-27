@@ -54,14 +54,11 @@ BookMyStay is designed for **scalability, reliability, and real-time pricing opt
 
 ## 🖼️ Architecture & Design Diagrams  
 
-### 🔹 High-Level Design (HLD)  
-![High Level Design](/images/first.jpeg)  
+### 🔹 Low-Level Design (LLD)  
+![High Level Design](/images/First.jpeg)    
 
-### 🔹 Dynamic Pricing Strategy & APIs  
-![Dynamic Pricing](./images/sec.jpeg)  
-
-### 🔹 Entity & Database Flow  
-![Entities](./images/third.jpeg)  
+### 🔹 hIGH-Level Design (HLD)  
+![Entities](./images/Sec.jpeg)  
 
 ---
 
